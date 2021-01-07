@@ -1,0 +1,16 @@
+backgroundBlue
+4
+BackUpFarmer,-7.8286004,-10.668759,8,2,0,1,0,0,0,0,0,0,3,0,
+Tree,6.0003567,-5.964713,true
+Tree,-35.6705,-139.21858,false
+House,-9.999989,-7.425002
+Farmer,-3.1901689,-10.6830015,9,7,1,3,0,0,0,0,0,4,5,0,
+Stump,8.030329,-9.96145
+StaticBody,-1.0,-2.0
+Platform,-1.0,-2.0,0.2,0.25,falsefalse,0.0,0.0
+StaticBody,14.2,-2.2
+StaticBody,-14.199999,-2.2
+StaticBody,0.0,-12.0
+Platform,0.0,-12.0,0.2,14.0,truetrue,10.0,10.0
+StaticBody,3.5,-8.0
+Platform,3.5,-8.0,0.2,5.0,falsefalse,0.0,0.0
