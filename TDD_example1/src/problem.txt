@@ -1,0 +1,11 @@
+#Description:
+This is tutorial of test driven development
+
+#Source:
+https://www.youtube.com/watch?v=Xc3d6j8Rm_I
+
+#Problem description:
+Given a string swap the last two characters of the string.
+
+#Conditions:
+"ab" => "ba", "rain" => "rani", "" => "", "a" => "a";
