@@ -1,9 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="farmerAdventure:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/farmerAdventure_jar</output-path>
-    <root id="archive" name="farmerAdventure.jar">
-      <element id="module-output" name="farmerAdventure" />
-      <element id="extracted-dir" path="$PROJECT_DIR$/../cityEngine40/CityEngine.jar" path-in-jar="/" />
-    </root>
-  </artifact>
-</component>
